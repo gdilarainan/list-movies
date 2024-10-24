@@ -43,7 +43,7 @@ To run the project in development mode, use the following command:
 npm start
 ```
 
-This will start the development server. Open [http://localhost:8080](http://localhost:8080) to view it in your browser. The page will automatically reload if you make any edits.
+This will start the development server. Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will automatically reload if you make any edits.
 
 ## Build for Production
 
