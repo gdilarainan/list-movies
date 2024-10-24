@@ -1,7 +1,7 @@
 
 # InventAnalytics Case Study
 
-This project is a React-based singe page application.
+This project is a React-based single page application.
 
 ## Features
 

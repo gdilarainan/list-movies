@@ -7,25 +7,32 @@
 
   .movie-detail-container{
     display: flex;
-    .movie-info {
-      max-width: 600px;
-      margin-left: 20px;
-      h1 {
-        margin-bottom: 10px;
+    background: #d6d6d6;
+    .movie-info-container{
+      display: flex;
+      margin: 20px ;
+
+      .movie-info {
+        max-width: 600px;
+        margin-left: 20px;
+        h1 {
+          margin-bottom: 10px;
+        }
+
+        p {
+          margin: 5px 0;
+        }
       }
 
-      p {
-        margin: 5px 0;
+      img {
+        max-width: 300px;
       }
     }
 
-    img {
-      max-width: 300px;
-    }
   }
 
   .back-container {
-    background-color: #d9d9e1;
+    background-color: #d6d6d6;
     padding: 10px;
     display: flex;
     margin-bottom: 10px;
@@ -48,7 +55,7 @@
     }
 
     &:hover {
-      background-color: #92abf4;
+      background-color: #bfd3e4;
     }
   }
 
