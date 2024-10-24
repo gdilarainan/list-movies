@@ -16,7 +16,7 @@ To get started, clone the repository to your local machine using the following c
 
 ```bash
 
-todo
+https://github.com/gdilarainan/list-movies.git
 ```
 
 ### 2. Navigate to the project directory
