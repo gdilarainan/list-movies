@@ -1,6 +1,17 @@
 
 # InventAnalytics Case Study
 
+This project is a React-based singe page application.
+
+## Features
+
+- Movie listing 
+- Displaying detailed information about selected movie
+- Filtering and searching movies
+- Pagination to handle large datasets
+- Uses Redux for state management
+- Built with TypeScript for static typing
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
